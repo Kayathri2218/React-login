@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+    background: #615f5f;
+    color: #fff;
+}
+
+.FN {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.link {
+    text-decoration: none;
+    color: #fff;
+}
+
+.name {
+    color: #000;
+}
+
+.FN-Div {
+    width: 40%;
+    border: 1px solid #000;
+    background: #fff;
+    border-radius: 20px;
+}
+
+.f{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.from{
+    width: 50%;
+}
+
+.from input {
+    width: 70%;
+}
+
+.btn {
+    padding: 20px;
+}
+
