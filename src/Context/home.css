@@ -1,0 +1,9 @@
+table, th, tr, td {
+    border: 1px solid #fdfcfc;
+}
+
+.table {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

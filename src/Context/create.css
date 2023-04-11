@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background: #615f5f;
+    color: #fff;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.d input {
+    width: 50%;
+}
+
+.style {
+    width: 40%;
+    border: 1px solid #000;
+    background: #fff;
+    border-radius: 20px;
+}
